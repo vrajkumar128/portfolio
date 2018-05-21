@@ -1,0 +1,28 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+/* Welcome Page */
+
+.welcome.hero {
+  .jumbotron {
+    height: 40rem;
+    background: url('https://portfolio-rails-2633.herokuapp.com/assets/home-db103bf75e724b89102c607792424914.jpg') center no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    .container {
+      color: white;
+      text-align: right;
+      h1 {
+        font-size: 3rem;
+        margin-bottom: 4rem;
+        span {
+          padding: 0 0.5rem;
+          color: black;
+          background-color: #e9e9e9;
+        }
+      }
+    }
+  }
+}
