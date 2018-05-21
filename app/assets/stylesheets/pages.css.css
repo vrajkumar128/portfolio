@@ -1,5 +1,5 @@
 /* Welcome Page */
-.welcome.hero .jumbotron {
+#welcome-hero .jumbotron {
   height: 40rem;
   background: url("https://portfolio-rails-2633.herokuapp.com/assets/home-db103bf75e724b89102c607792424914.jpg") center no-repeat;
   background-size: cover;
@@ -7,17 +7,17 @@
   align-items: center;
 }
 
-.welcome.hero .jumbotron .container {
+#welcome-hero .jumbotron .container {
   color: white;
   text-align: right;
 }
 
-.welcome.hero .jumbotron .container h1 {
+#welcome-hero .jumbotron .container h1 {
   font-size: 3rem;
   margin-bottom: 4rem;
 }
 
-.welcome.hero .jumbotron .container h1 span {
+#welcome-hero .jumbotron .container h1 span {
   padding: 0 0.5rem;
   color: black;
   background-color: #e9e9e9;
