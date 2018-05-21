@@ -51,6 +51,12 @@ header .container nav a:hover {
   text-decoration: none;
 }
 
+.jumbotron {
+  height: 40rem;
+  background: center no-repeat;
+  background-size: cover;
+}
+
 footer .container {
   text-align: right;
 }

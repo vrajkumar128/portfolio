@@ -22,3 +22,8 @@
   color: black;
   background-color: #e9e9e9;
 }
+
+/* Portfolio Page */
+#portfolio-hero .jumbotron {
+  background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/slide01-9d5c1b911de14032bbc4cc7b19514447.jpg");
+}
